@@ -1,0 +1,49 @@
+element.style {
+}
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.clouds{
+width: 80px;
+
+}
+
+.mountain{
+width: 200px;
+height: 200px;
+
+}
+
+.draco{
+width: 200px;
+height: 200px;
+
+}
+
+.write{
+width: 300px;
+height: 300px;
+border-radius: 80px;
+
+}
+
+.lofi{
+width: 300px;
+height: 300px;
+border-radius: 80px;
+
+
+}
